@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on [PomoDone](https://github.com/smeeg13/PomoDone-Mobile-App)
+- 🔭 I’m currently working on [PomoDone](https://github.com/smeeg13/PomoDone-Mobile-App), a FlutterFire Mobile Application for task & time management
 
-- 💞️ I’m collaboratating on [MonPodCast](https://github.com/smeeg13/MonPodCast)
+- 💞️ I’m collaboratating on [MonPodCast](https://github.com/smeeg13/MonPodCast), a Web application for streaming RhôneFM podcasts, developped in Next.Js & MongoDB
 
 - 👀 I’m interested in Web & Mobile Developement
 
