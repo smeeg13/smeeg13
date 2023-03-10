@@ -5,23 +5,28 @@
 
 
 
-- 🔭 I’m currently working on [PomoDone](https://github.com/smeeg13/PomoDone-Mobile-App)
+- 🔭 I’m currently working on **[PomoDone](https://github.com/smeeg13/PomoDone-Mobile-App)**
 
       - A FlutterFire Mobile Application for task & time management
 
-- 💞️ I’m collaboratating on [MonPodCast](https://github.com/smeeg13/MonPodCast),
+- 💞️ I’m collaboratating on **[MonPodCast](https://github.com/smeeg13/MonPodCast)**
 
       - A Web application for streaming RhôneFM podcasts, developped in Next.Js & MongoDB
 
-- 👀 I’m interested in Web & Mobile Developement
+#### To see other projects I've made click **[here](https://github.com/smeeg13?tab=stars)**
 
-- 🌱 I’m currently learning **Next.js - Electron - MongoDB**
+</br>
 
- 
+👀 I’m interested in **Web & Mobile Developement**
+
+🌱 I’m currently learning **Next.js - Electron - MongoDB**
+
+
+</br>
 
 ### How to reach me
 
-  <a href="https://linkedin.com/in/mégane-solliard" target="blank"><img align="bottom-left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mégane solliard" height="15" width="25" /></a> Feel free to take contact with me via my [LinkedIn Profile](https://linkedin.com/in/mégane-solliard) if you want to collaborate with me or if you have any question 😉
+  <a href="https://linkedin.com/in/mégane-solliard" target="blank"><img align="bottom-left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mégane solliard" height="15" width="25" /></a> Feel free to take contact with me via my **[LinkedIn Profile](https://linkedin.com/in/mégane-solliard)** if you want to collaborate with me or if you have any question 😉
 
 ## Languages and Tools :
 
@@ -67,4 +72,4 @@
 </br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smeeg13&show_icons=true&locale=en&layout=compact" alt="smeeg13" /></p>
 
-Thanks for visiting my profile !
+Thanks for visiting my profile, hope you enjoyed my work ! :sparkling_heart:
