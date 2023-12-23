@@ -9,9 +9,6 @@
 
       - A FlutterFire Mobile Application for task & time management
 
-- 💞️ I’m collaboratating on **[MonPodCast](https://github.com/smeeg13/MonPodCast)**
-
-      - A Web application for streaming RhôneFM podcasts, developped in Next.Js & MongoDB
 
 #### To see other projects I've made click **[here](https://github.com/smeeg13?tab=stars)**
 
